@@ -1,6 +1,6 @@
 # CompSys-scripts
 
-Scripts made to help in exam preparations in verification of your exam answers on DIKU course CompSys.
+Scripts made to help with exam preparations and with verification of your exam answers on the DIKU course CompSys.
 
 ## Running the scripts
 
